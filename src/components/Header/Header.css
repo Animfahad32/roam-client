@@ -1,0 +1,23 @@
+.brand-text {
+  font-family: "Kaushan Script", cursive;
+  font-size: 40px;
+}
+
+nav {
+  border-bottom: 3px solid #ffe500;
+}
+
+.nav-hov:hover {
+  background-color: #ffe500 !important;
+  transition: all 1s;
+}
+
+.header-div {
+  display: flex;
+}
+
+@media only screen and (max-width: 600px) {
+  .header-div {
+    display: block;
+  }
+}

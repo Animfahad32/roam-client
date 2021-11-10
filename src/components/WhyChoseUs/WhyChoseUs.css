@@ -1,0 +1,21 @@
+.chose-head {
+  text-align: center;
+}
+.chose1 {
+  margin-bottom: 15px;
+  font-family: "Kaushan Script", cursive;
+  font-style: normal;
+  font-weight: 700;
+}
+.chose2 {
+  font-family: "Kaushan Script", cursive;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 46px;
+  text-transform: capitalize;
+}
+
+.cardss .card {
+  background-color: #ffe514;
+}

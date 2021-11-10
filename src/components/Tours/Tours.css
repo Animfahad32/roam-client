@@ -1,0 +1,50 @@
+.inner {
+  overflow: hidden;
+}
+.inner img {
+  transition: all 0.8s ease;
+}
+
+.inner-img:hover img {
+  transform: scale(1.1);
+}
+.price {
+  font-weight: bold;
+  background: #ffe514;
+  color: #000;
+  width: 25%;
+  padding: 5px;
+  border-radius: 5px;
+}
+.tour-name {
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+  background: #ffe514;
+  color: black;
+}
+
+.btn-style {
+  border: 2px solid #ffe500;
+  border-radius: 5px;
+  display: inline-block;
+  color: black;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  padding: 10px;
+  background: #ffe500;
+}
+.headers {
+  text-align: center;
+  padding: 40px;
+  font-family: "Kaushan Script", cursive;
+}
+.span-bg {
+  background: #ffe514;
+}
+
+@media only screen and (max-width: 600px) {
+  .price {
+    padding: 0px;
+  }
+}

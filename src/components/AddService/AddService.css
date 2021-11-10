@@ -1,0 +1,25 @@
+.form-div form {
+  display: flex;
+  flex-direction: column;
+
+  justify-content: center;
+  align-items: center;
+}
+
+.form-div-input {
+  width: 65%;
+  padding: 15px;
+  margin-top: 10px;
+  border-radius: 5px;
+  border: 1px solid #ffe514;
+  background: #ffee64;
+}
+
+.form-btn {
+  width: 65%;
+  padding: 15px;
+  margin-top: 10px;
+  border-radius: 5px;
+  border: 1px solid #ffe514;
+  background: #ffe514;
+}

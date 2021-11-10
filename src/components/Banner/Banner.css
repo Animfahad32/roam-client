@@ -1,0 +1,15 @@
+.carousel-caption {
+  bottom: 30%;
+}
+
+@media only screen and (max-width: 600px) {
+  .banner-heading {
+    font-size: 10px;
+  }
+  .banner-img {
+    height: 500px;
+  }
+  .carousel-caption {
+    bottom: 10%;
+  }
+}

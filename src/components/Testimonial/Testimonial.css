@@ -1,0 +1,28 @@
+.card {
+  border: none;
+}
+
+.review-card {
+  padding: 30px 25px;
+  margin: 20px 10px;
+  text-align: center;
+  -webkit-box-shadow: rgb(17 17 26 / 10%) 0 0 16px;
+  box-shadow: rgb(17 17 26 / 10%) 0 0 16px;
+  border-radius: 50px 50px 0 0;
+}
+.profile img {
+  height: 114px;
+  width: 114px;
+  border-radius: 50%;
+  border: 8px solid rgba(48, 79, 71, 0.1);
+  margin: 0 auto;
+}
+
+.intro {
+  font-family: "Kaushan Script", cursive;
+  background: #ffe531;
+}
+
+.q-bg {
+  color: #ffe531;
+}
